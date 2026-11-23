@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+/uploads/products/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment Variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
