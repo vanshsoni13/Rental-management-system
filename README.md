@@ -1,3 +1,6 @@
+# Rental-management-systeam
+A rental management system with integrated razorpay payment gateway
+
 # RentHub Rental Management System
 
 The existing React/Vite application now uses a Python/FastAPI REST backend and the existing MySQL/MariaDB database. The frontend pages, components, styles, and Vite API proxy remain in place.
